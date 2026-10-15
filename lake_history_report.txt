@@ -1,0 +1,129 @@
+=============================================
+  UPGRADED ADVANCED ENGINEERING SIMULATION
+=============================================
+Year: 1901 | Era: Early Industrial         | Depth: 24.9920m | Mud Layer: 0.0080m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1902 | Era: Early Industrial         | Depth: 24.9840m | Mud Layer: 0.0160m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1903 | Era: Early Industrial         | Depth: 24.9760m | Mud Layer: 0.0240m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1904 | Era: Early Industrial         | Depth: 24.9680m | Mud Layer: 0.0320m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1905 | Era: Early Industrial         | Depth: 24.9600m | Mud Layer: 0.0400m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1906 | Era: Early Industrial         | Depth: 24.9520m | Mud Layer: 0.0480m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1907 | Era: Early Industrial         | Depth: 24.9440m | Mud Layer: 0.0560m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1908 | Era: Early Industrial         | Depth: 24.9360m | Mud Layer: 0.0640m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1909 | Era: Early Industrial         | Depth: 24.9280m | Mud Layer: 0.0720m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1910 | Era: Early Industrial         | Depth: 24.9200m | Mud Layer: 0.0800m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1911 | Era: Early Industrial         | Depth: 24.9120m | Mud Layer: 0.0880m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1912 | Era: Early Industrial         | Depth: 24.9040m | Mud Layer: 0.0960m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1913 | Era: Early Industrial         | Depth: 24.8960m | Mud Layer: 0.1040m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1914 | Era: Early Industrial         | Depth: 24.8880m | Mud Layer: 0.1120m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1915 | Era: Early Industrial         | Depth: 24.8800m | Mud Layer: 0.1200m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1916 | Era: Early Industrial         | Depth: 24.8720m | Mud Layer: 0.1280m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1917 | Era: Early Industrial         | Depth: 24.8640m | Mud Layer: 0.1360m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1918 | Era: Early Industrial         | Depth: 24.8560m | Mud Layer: 0.1440m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1919 | Era: Early Industrial         | Depth: 24.8480m | Mud Layer: 0.1520m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1920 | Era: Early Industrial         | Depth: 24.8400m | Mud Layer: 0.1600m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1921 | Era: Early Industrial         | Depth: 24.8320m | Mud Layer: 0.1680m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1922 | Era: Early Industrial         | Depth: 24.8240m | Mud Layer: 0.1760m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1923 | Era: Early Industrial         | Depth: 24.8160m | Mud Layer: 0.1840m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1924 | Era: Early Industrial         | Depth: 24.8080m | Mud Layer: 0.1920m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1925 | Era: Early Industrial         | Depth: 24.8000m | Mud Layer: 0.2000m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1926 | Era: Early Industrial         | Depth: 24.7920m | Mud Layer: 0.2080m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1927 | Era: Early Industrial         | Depth: 24.7840m | Mud Layer: 0.2160m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1928 | Era: Early Industrial         | Depth: 24.7760m | Mud Layer: 0.2240m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1929 | Era: Early Industrial         | Depth: 24.7680m | Mud Layer: 0.2320m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1930 | Era: Early Industrial         | Depth: 24.7600m | Mud Layer: 0.2400m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1931 | Era: Early Industrial         | Depth: 24.7520m | Mud Layer: 0.2480m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1932 | Era: Early Industrial         | Depth: 24.7440m | Mud Layer: 0.2560m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1933 | Era: Early Industrial         | Depth: 24.7360m | Mud Layer: 0.2640m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1934 | Era: Early Industrial         | Depth: 24.7280m | Mud Layer: 0.2720m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1935 | Era: Early Industrial         | Depth: 24.7200m | Mud Layer: 0.2800m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1936 | Era: Early Industrial         | Depth: 24.7120m | Mud Layer: 0.2880m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1937 | Era: Early Industrial         | Depth: 24.7040m | Mud Layer: 0.2960m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1938 | Era: Early Industrial         | Depth: 24.6960m | Mud Layer: 0.3040m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1939 | Era: Early Industrial         | Depth: 24.6880m | Mud Layer: 0.3120m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1940 | Era: Early Industrial         | Depth: 24.6800m | Mud Layer: 0.3200m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1941 | Era: Early Industrial         | Depth: 24.6720m | Mud Layer: 0.3280m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1942 | Era: Early Industrial         | Depth: 24.6640m | Mud Layer: 0.3360m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1943 | Era: Early Industrial         | Depth: 24.6560m | Mud Layer: 0.3440m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1944 | Era: Early Industrial         | Depth: 24.6480m | Mud Layer: 0.3520m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1945 | Era: Early Industrial         | Depth: 24.6400m | Mud Layer: 0.3600m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1946 | Era: Infrastructure Expansion | Depth: 24.6240m | Mud Layer: 0.3760m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1947 | Era: Infrastructure Expansion | Depth: 24.6080m | Mud Layer: 0.3920m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1948 | Era: Infrastructure Expansion | Depth: 24.5920m | Mud Layer: 0.4080m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1949 | Era: Infrastructure Expansion | Depth: 24.5760m | Mud Layer: 0.4240m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1950 | Era: Infrastructure Expansion | Depth: 24.5600m | Mud Layer: 0.4400m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1951 | Era: Infrastructure Expansion | Depth: 24.5440m | Mud Layer: 0.4560m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1952 | Era: Infrastructure Expansion | Depth: 24.5280m | Mud Layer: 0.4720m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1953 | Era: Infrastructure Expansion | Depth: 24.5120m | Mud Layer: 0.4880m | Load Limit: 40.0 Tons -> STABLE BEARING BRACKET
+Year: 1954 | Era: Infrastructure Expansion | Depth: 24.4960m | Mud Layer: 0.5040m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1955 | Era: Infrastructure Expansion | Depth: 24.4800m | Mud Layer: 0.5200m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1956 | Era: Infrastructure Expansion | Depth: 24.4640m | Mud Layer: 0.5360m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1957 | Era: Infrastructure Expansion | Depth: 24.0841m | Mud Layer: 0.9159m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK [! DISASTER: SEVERE MUDSLIDE (+363.9mm)]
+Year: 1958 | Era: Infrastructure Expansion | Depth: 24.0681m | Mud Layer: 0.9319m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1959 | Era: Infrastructure Expansion | Depth: 24.0521m | Mud Layer: 0.9479m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1960 | Era: Infrastructure Expansion | Depth: 24.0361m | Mud Layer: 0.9639m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1961 | Era: Infrastructure Expansion | Depth: 24.0201m | Mud Layer: 0.9799m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1962 | Era: Infrastructure Expansion | Depth: 24.0041m | Mud Layer: 0.9959m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1963 | Era: Infrastructure Expansion | Depth: 23.9881m | Mud Layer: 1.0119m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1964 | Era: Infrastructure Expansion | Depth: 23.9721m | Mud Layer: 1.0279m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1965 | Era: Infrastructure Expansion | Depth: 23.9561m | Mud Layer: 1.0439m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1966 | Era: Infrastructure Expansion | Depth: 23.9401m | Mud Layer: 1.0599m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1967 | Era: Infrastructure Expansion | Depth: 23.9241m | Mud Layer: 1.0759m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1968 | Era: Infrastructure Expansion | Depth: 23.9081m | Mud Layer: 1.0919m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1969 | Era: Infrastructure Expansion | Depth: 23.8921m | Mud Layer: 1.1079m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1970 | Era: Infrastructure Expansion | Depth: 23.8761m | Mud Layer: 1.1239m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1971 | Era: Infrastructure Expansion | Depth: 23.8601m | Mud Layer: 1.1399m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1972 | Era: Infrastructure Expansion | Depth: 23.8441m | Mud Layer: 1.1559m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1973 | Era: Infrastructure Expansion | Depth: 23.8281m | Mud Layer: 1.1719m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1974 | Era: Infrastructure Expansion | Depth: 23.8121m | Mud Layer: 1.1879m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1975 | Era: Infrastructure Expansion | Depth: 23.7961m | Mud Layer: 1.2039m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1976 | Era: Infrastructure Expansion | Depth: 23.7801m | Mud Layer: 1.2199m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1977 | Era: Infrastructure Expansion | Depth: 23.7641m | Mud Layer: 1.2359m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1978 | Era: Infrastructure Expansion | Depth: 23.7481m | Mud Layer: 1.2519m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1979 | Era: Infrastructure Expansion | Depth: 23.7321m | Mud Layer: 1.2679m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1980 | Era: Infrastructure Expansion | Depth: 23.7161m | Mud Layer: 1.2839m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1981 | Era: Infrastructure Expansion | Depth: 23.7001m | Mud Layer: 1.2999m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1982 | Era: Infrastructure Expansion | Depth: 23.6841m | Mud Layer: 1.3159m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1983 | Era: Infrastructure Expansion | Depth: 23.6681m | Mud Layer: 1.3319m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1984 | Era: Infrastructure Expansion | Depth: 23.6521m | Mud Layer: 1.3479m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1985 | Era: Infrastructure Expansion | Depth: 23.6361m | Mud Layer: 1.3639m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1986 | Era: Infrastructure Expansion | Depth: 23.6201m | Mud Layer: 1.3799m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1987 | Era: Infrastructure Expansion | Depth: 23.6041m | Mud Layer: 1.3959m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1988 | Era: Infrastructure Expansion | Depth: 23.5881m | Mud Layer: 1.4119m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1989 | Era: Infrastructure Expansion | Depth: 23.5721m | Mud Layer: 1.4279m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1990 | Era: Infrastructure Expansion | Depth: 23.5561m | Mud Layer: 1.4439m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1991 | Era: Modern Eco-Management    | Depth: 23.5361m | Mud Layer: 1.4639m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1992 | Era: Modern Eco-Management    | Depth: 23.5161m | Mud Layer: 1.4839m | Load Limit: 24.0 Tons -> CAUTION: MINOR SETTLEMENT RISK
+Year: 1993 | Era: Modern Eco-Management    | Depth: 23.4961m | Mud Layer: 1.5039m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 1994 | Era: Modern Eco-Management    | Depth: 23.4761m | Mud Layer: 1.5239m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 1995 | Era: Modern Eco-Management    | Depth: 23.4561m | Mud Layer: 1.5439m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 1996 | Era: Modern Eco-Management    | Depth: 23.4361m | Mud Layer: 1.5639m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 1997 | Era: Modern Eco-Management    | Depth: 23.4161m | Mud Layer: 1.5839m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 1998 | Era: Modern Eco-Management    | Depth: 23.3961m | Mud Layer: 1.6039m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 1999 | Era: Modern Eco-Management    | Depth: 23.3761m | Mud Layer: 1.6239m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 2000 | Era: Modern Eco-Management    | Depth: 23.3561m | Mud Layer: 1.6439m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 2001 | Era: Modern Eco-Management    | Depth: 23.3361m | Mud Layer: 1.6639m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 2002 | Era: Modern Eco-Management    | Depth: 23.3161m | Mud Layer: 1.6839m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 2003 | Era: Modern Eco-Management    | Depth: 23.2961m | Mud Layer: 1.7039m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 2004 | Era: Modern Eco-Management    | Depth: 23.2761m | Mud Layer: 1.7239m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 2005 | Era: Modern Eco-Management    | Depth: 23.2561m | Mud Layer: 1.7439m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 2006 | Era: Modern Eco-Management    | Depth: 23.2361m | Mud Layer: 1.7639m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 2007 | Era: Modern Eco-Management    | Depth: 23.2161m | Mud Layer: 1.7839m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 2008 | Era: Modern Eco-Management    | Depth: 23.1961m | Mud Layer: 1.8039m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 2009 | Era: Modern Eco-Management    | Depth: 23.1761m | Mud Layer: 1.8239m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 2010 | Era: Modern Eco-Management    | Depth: 23.1561m | Mud Layer: 1.8439m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 2011 | Era: Modern Eco-Management    | Depth: 23.1361m | Mud Layer: 1.8639m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 2012 | Era: Modern Eco-Management    | Depth: 23.1161m | Mud Layer: 1.8839m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 2013 | Era: Modern Eco-Management    | Depth: 23.0961m | Mud Layer: 1.9039m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 2014 | Era: Modern Eco-Management    | Depth: 22.7534m | Mud Layer: 2.2466m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED [! DISASTER: DAM BREACH RUNOFF (+322.6mm)]
+Year: 2015 | Era: Modern Eco-Management    | Depth: 22.7334m | Mud Layer: 2.2666m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 2016 | Era: Modern Eco-Management    | Depth: 22.7134m | Mud Layer: 2.2866m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 2017 | Era: Modern Eco-Management    | Depth: 22.6934m | Mud Layer: 2.3066m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 2018 | Era: Modern Eco-Management    | Depth: 22.6734m | Mud Layer: 2.3266m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 2019 | Era: Modern Eco-Management    | Depth: 22.6534m | Mud Layer: 2.3466m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 2020 | Era: Modern Eco-Management    | Depth: 22.6334m | Mud Layer: 2.3666m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 2021 | Era: Modern Eco-Management    | Depth: 22.6134m | Mud Layer: 2.3866m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 2022 | Era: Modern Eco-Management    | Depth: 22.5934m | Mud Layer: 2.4066m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 2023 | Era: Modern Eco-Management    | Depth: 22.5734m | Mud Layer: 2.4266m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 2024 | Era: Modern Eco-Management    | Depth: 22.5534m | Mud Layer: 2.4466m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 2025 | Era: Modern Eco-Management    | Depth: 22.5334m | Mud Layer: 2.4666m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
+Year: 2026 | Era: Modern Eco-Management    | Depth: 22.5134m | Mud Layer: 2.4866m | Load Limit: 12.0 Tons -> WARNING: STRUCTURAL MITIGATION REQUIRED
